@@ -1,6 +1,8 @@
 # Flight demo
 A tiny demo application mainly to show how flight components can be tested. In particular, how to fake an Ajax success event with Jasmine spies.
 
+Also ideal as a base for RequireJS config
+
 It will be used to accompany a couple of blog posts discussing my findings.
 
 ## Makes use of
