@@ -3,7 +3,7 @@ A tiny demo application mainly to show how flight components can be tested. In p
 
 Also ideal as a base for RequireJS config
 
-It will be used to accompany a couple of blog posts discussing my findings.
+It will be used to accompany a couple of blog posts discussing my findings as I've just started using Flight on a work project.
 
 ## Makes use of
 
