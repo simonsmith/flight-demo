@@ -1,9 +1,9 @@
 # Flight demo
-A tiny demo application mainly to show how flight components can be tested. In particular, how to fake an Ajax success event with Jasmine spies.
+A tiny demo application mainly to show how flight components can be setup with RequireJS and tested with Jasmine. Touches on the common requirement of fetching some JSON and rendering it.
 
-Also ideal as a base for RequireJS config
+I found the Twitter Flight demo to be great, but a little overwhelming to first time users of the library.
 
-It will be used to accompany a couple of blog posts discussing my findings as I've just started using Flight on a work project.
+It will also be used to accompany a couple of blog posts discussing my findings as I've just started using Flight on a work project.
 
 ## Makes use of
 
